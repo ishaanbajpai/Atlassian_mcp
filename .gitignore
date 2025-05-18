@@ -1,0 +1,31 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output & Log directories
+output_content/
+logs/
+*.log
+
+# Local mcp-remote tokens
+tokens/
+
+# Environment variables
+.env
+.env.*
+!/.env.example
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db 

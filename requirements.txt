@@ -1,0 +1,7 @@
+openai>=1.0.0,<2.0.0
+mcp-use>=1.2.12 # Or your specific working version. Ensure this is the one that solved previous import issues.
+langchain-openai>=0.1.0
+python-dotenv>=0.20.0
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+aiofiles>=0.8.0 # For asynchronous file operations
