@@ -13,6 +13,8 @@ __pycache__/
 output_content/
 logs/
 *.log
+services/logs/
+tests/logs/
 
 # Local mcp-remote tokens
 tokens/
